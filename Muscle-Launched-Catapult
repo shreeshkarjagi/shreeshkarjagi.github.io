@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Muscle-Launched-Catapult </title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+  <!-- ======= Mobile nav toggle button ======= -->
+  <i class="bi bi-list mobile-nav-toggle d-xl-none"></i>
+
+</head>
+
+<body>
+
+  <main id="main">
+
+    <!-- ======= Breadcrumbs ======= -->
+    <section id="breadcrumbs" class="breadcrumbs">
+      <div class="container">
+
+        <div class="d-flex justify-content-between align-items-center">
+          <h2>Portfolio Details</h2>
+          <a href="index.html">Home</a>
+          
+        </div>
+
+      </div>
+    </section><!-- End Breadcrumbs -->
+
+    <!-- ======= Portfolio Details Section ======= -->
+    <section id="portfolio-details" class="portfolio-details">
+      <div class="container">
+
+        <div class="row gy-4">
+
+          <div class="col-lg-8">
+            <div class="portfolio-details-slider swiper">
+              <div class="swiper-wrapper align-items-center">
+
+                <div class="swiper-slide">
+<iframe src="https://drive.google.com/file/d/1nzmLpA5awbOIn11UiGr6u_AL2Bh436-n/preview" width="640" height="480" allow="autoplay"></iframe>                </div>
+
+                <div class="swiper-slide">
+                  <img src="assets/img/portfolio/portfolio-details-30.png" alt="">
+                </div>
+
+                <div class="swiper-slide">
+                  <img src="assets/img/portfolio/portfolio-details-31.png" alt="">
+                </div>
+                <div class="swiper-slide">
+                  <img src="assets/img/portfolio/portfolio-details-32.png" alt="">
+                </div>
+                <div class="swiper-slide">
+                  <img src="assets/img/portfolio/portfolio-details-33.png" alt="">
+                </div>
+              </div>
+              <div class="swiper-pagination"></div>
+            </div>
+          </div>
+
+          <div class="col-lg-4">
+            <div class="portfolio-info">
+              <h3></h3>
+              <ul>
+                <li><strong>Category</strong>: Innovative Physiotherapy: Muscle-controlled Catapult using Myoware & Servo </li>
+                <li><strong>Group Project</strong>: Idea Hacks LA 2023 </li>             
+                <li><strong>Link</strong>:<a href="https://github.com/shreeshkarjagi/Muscle-Launched-Catapult">Link</a></li>
+              </ul>
+            </div>
+            <div class="portfolio-description">
+              <h2>Project detail</h2>
+              <p>
+This project, created by the Team: Muscle Boyz (Andrew Tejada, Eric Zavala, Jason Kong, Shreesh Karjagi, Utkarsh Kumar) during Idea Hacks LA 2023, aims to revolutionize physiotherapy by using cutting-edge technology to develop a muscle-controlled catapult. By utilizing a Myoware muscle sensor and a servo motor, the subject's muscle activity (EMG) signals is used to launch the catapult. Not only is this an engaging and dynamic way to rehab injuries and improve muscle strength, it also empowers the patient to take control of their own therapy.
+
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Portfolio Details Section -->
+
+  </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+      </div>
+    </div>
+  </footer><!-- End  Footer -->
+
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/purecounter/purecounter.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/typed.js/typed.min.js"></script>
+  <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
