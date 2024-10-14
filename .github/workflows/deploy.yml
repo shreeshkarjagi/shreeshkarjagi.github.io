@@ -86,12 +86,11 @@ jobs:
 
       - name: Install and Build 🔧
         run: |
-          python -m venv venv
-          source venv/bin/activate
-          pip install --upgrade pip
-          pip install jupyter
-          export JEKYLL_ENV=production
+          bundle install
           bundle exec jekyll build
+        env:
+          JEKYLL_ENV: production
+          
       - name: Purge unused CSS 🧹
         run: |
           npm install -g purgecss
