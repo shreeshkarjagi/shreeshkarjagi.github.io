@@ -28,6 +28,11 @@ jobs:
         with:
           python-version: '3.x'
 
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+
       - name: Install dependencies 🔧
         run: |
           sudo apt-get update
@@ -36,11 +41,13 @@ jobs:
           gem install bundler
           bundle config path vendor/bundle
           bundle install --jobs 4 --retry 3
+          npm install -g prettier
+
+      - name: Run Prettier
+        run: npx prettier --write _config.yml .github/workflows/deploy.yml
 
       - name: Build site 🏗
-        run: bundle exec jekyll build
-        env:
-          JEKYLL_ENV: production
+        run: JEKYLL_ENV=production bundle exec jekyll build
 
       - name: Deploy 🚀
         if: github.event_name != 'pull_request'
