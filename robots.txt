@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://shreeshkarjagi.github.io/sitemap.xml
