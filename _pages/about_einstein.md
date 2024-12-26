@@ -1,4 +1,6 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! I'm Shreesh :) I am currently a research assistant in Dr. Bronte-Stewart’s [Human Motor Control and Research Lab](https://med.stanford.edu/bronte-stewart-lab.html) at Stanford Neurology. Previously, I graduated from UCLA with a B.S. in Bioengineering, working with Dr. Jun Chen and Ph.D. student mentor Dr. Xun Zhao in the [Bioelectronics Research Group](https://www.junchenlab.com/). 
+
+My goal is to understand neural circuit dynamics underlying motor and cognitive function in neurological and psychiatric disorders. By pursuing a Ph.D. in Bioengineering/Biomedical Engineering (BioE/BME), I aim to develop the expertise necessary to conduct independent investigations of neural circuits and uncover the computational principles governing brain network pathophysiology. My ultimate goal is to translate this mechanistic understanding into therapeutic interventions that directly improve patient outcomes.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
