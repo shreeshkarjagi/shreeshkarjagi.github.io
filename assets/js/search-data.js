@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "publications",
-          description: "Digital health monitoring, neuromodulation, neurological disorders, signal processing, and biomedical sensors.",
+          description: "Bioelectronics, Neuromodulation, Computational Neuroengineering, and Digital Health.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
@@ -421,11 +421,11 @@ ninja.data = [{
           window.open("mailto:%73%68%72%65%65%73%68%6B%30%39@%67.%75%63%6C%61.%65%64%75", "_blank");
         },
       },{
-        id: 'social-gitlab',
-        title: 'GitLab',
+        id: 'social-github',
+        title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://gitlab.com/shreeshkarjagi", "_blank");
+          window.open("https://github.com/shreeshkarjagi", "_blank");
         },
       },{
         id: 'social-linkedin',
