@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Digital health monitoring, neuromodulation, neurological disorders, signal processing, and biomedical sensors. 
+description: Bioelectronics, Neuromodulation, Computational Neuroengineering, and Digital Health. 
 nav: true
 nav_order: 2
 ---

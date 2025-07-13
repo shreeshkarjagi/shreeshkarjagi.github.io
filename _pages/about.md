@@ -20,5 +20,5 @@ Hi! I'm Shreesh, and welcome to my little corner of the internet :) I’m a bioe
 
 I graduated from UCLA with a B.S. in Bioengineering, where I worked in Dr. Jun Chen’s [Wearable Bioelectronics Lab](https://www.junchenlab.com/). There, I contributed to projects under the mentorship of Dr. Xun Zhao in wearable sensors and bioelectronics, from smart bedsheets for sleep monitoring to developing ultrasensitive acoustic sensors for voice recoginition. 
 
-This site is where I share my journey, ideas, and achievements as I work toward bridging engineering innovation with impactful advancements in medicine. Thanks for stopping by!
+This site is where I share my journey, ideas, and achievements as I work toward bridging engineering innovation with advancements in medicine. Thanks for stopping by!
 
