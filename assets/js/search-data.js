@@ -353,22 +353,22 @@ ninja.data = [{
           window.location.href = "/sample-posts/2015/03/15/formatting-and-links.html";
         
       },
-    },{id: "news-announcement-1",
-          title: 'Announcement_1',
+    },{id: "news-graduated-from-ucla-amp-amp-received-the-russell-r-o-neill-distinguished-service-award-tada",
+          title: 'Graduated from UCLA &amp;amp;amp; received the Russell R. O’Neill Distinguished Service Award :tada:...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_1/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-joined-stanford-s-human-motor-control-and-neuromodulation-lab-as-a-research-assistant",
+          title: 'Joined Stanford’s Human Motor Control and Neuromodulation Lab as a Research Assistant',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-announcement-3",
-          title: 'Announcement_3',
+          section: "News",},{id: "news-presented-with-lab-members-at-the-10th-annual-brain-initiative-conference-virtual",
+          title: 'Presented with lab members at the 10th Annual BRAIN Initiative conference (virtual)',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_3/";
-            },},{id: "projects-project-1",
+          section: "News",},{id: "news-presented-with-lab-members-at-society-for-neuroscience-sfn-conference-in-chicago",
+          title: 'Presented with lab members at Society for Neuroscience (SfN) conference in Chicago',
+          description: "",
+          section: "News",},{id: "news-started-ph-d-at-georgia-tech-as-a-graduate-research-assistant-in-the-siplab",
+          title: 'Started Ph.D. at Georgia Tech as a Graduate Research Assistant in the SIPLab...',
+          description: "",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
