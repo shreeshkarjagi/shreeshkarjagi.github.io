@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Student | Neuromodulation, Clinical AI & Digital Health | skarjagi6@gatech.edu
+subtitle: Machine Learning Ph.D. Student | Neuromodulation, Clinical AI & Digital Health | skarjagi6@gatech.edu
 profile:
   align: right
   image: prof_pic.jpg
@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I'm Shreesh, and welcome to my little corner of the internet :) I'm an aspiring academic passionate about advancing therapies for neuropsychiatric disorders. Currently, I'm a Ph.D. student in the [Structured Information for Precision Neuroengineering Lab (SIPLab)](https://siplab.gatech.edu/index.html) at Georgia Tech & Emory, advised by [Dr. Christopher J. Rozell](https://siplab.gatech.edu/rozell.html) & [Dr. Sankar Alagapan](https://www.sankaralagapan.com/).
+Hi! I'm Shreesh, and welcome to my little corner of the internet :) I'm an aspiring academic passionate about advancing therapies for neuropsychiatric disorders. Currently, I'm a ML Ph.D. student in the [Structured Information for Precision Neuroengineering Lab (SIPLab)](https://siplab.gatech.edu/index.html) at Georgia Tech, advised by [Dr. Christopher J. Rozell](https://siplab.gatech.edu/rozell.html) & [Dr. Sankar Alagapan](https://www.sankaralagapan.com/).
 
 My interests are in neuromodulation, machine learning, and digital health technologies, with a focus on clinical applications of AI to better understand brain & behavior with the goal of improving patient outcomes.
 
