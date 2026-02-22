@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:Ph.D. Student | Neuromodulation, Clinical AI & Digital Health | skarjagi6@gatech.edu
+subtitle: Ph.D. Student | Neuromodulation, Clinical AI & Digital Health | skarjagi6@gatech.edu
 profile:
   align: right
   image: prof_pic.jpg
