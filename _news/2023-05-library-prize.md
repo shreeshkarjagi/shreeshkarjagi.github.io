@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I was awarded first place in the UCLA Library Prize for Undergraduate Research (Sciences, Engineering and Math) for my work on bioelectronics for wearable and implantable electrical stimulation therapeutics!
+I was awarded first place during Undergraduate Research Week (Sciences, Engineering and Math) for my work on bioelectronics for wearable and implantable electrical stimulation therapeutics!
