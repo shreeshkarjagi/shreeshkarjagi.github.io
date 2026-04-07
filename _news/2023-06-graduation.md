@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Graduated from UCLA & received the <a href="https://commencement.seas.ucla.edu/2023-awards/" target="_blank">Russell R. O'Neill Distinguished Service Award</a> :tada:
+I graduated from UCLA Samueli with a B.S. in Bioengineering and received the <a href="https://commencement.seas.ucla.edu/2023-awards/" target="_blank">Russell R. O'Neill Distinguished Service Award</a>!

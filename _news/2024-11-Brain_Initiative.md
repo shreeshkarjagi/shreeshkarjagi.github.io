@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented with lab members at the 10th Annual BRAIN Initiative conference (virtual)
+I presented work on beta power-driven adaptive deep brain stimulation using Percept PC for gait impairment and freezing of gait in Parkinson's Disease at the 10th Annual BRAIN Initiative Conference.
