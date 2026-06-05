@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I joined the Bronte-Stewart Lab (Human Motor Control and Neuromodulation) at Stanford as a Research Assistant!
+Started as a Research Assistant in the Bronte-Stewart Lab (Human Motor Control and Neuromodulation) at Stanford.

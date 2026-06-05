@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I was awarded first place during Undergraduate Research Week (Sciences, Engineering and Math) for my work on bioelectronics for wearable and implantable electrical stimulation therapeutics!
+Received first place at UCLA Undergraduate Research Week (Sciences, Engineering & Math) for work on bioelectronics for wearable and implantable stimulation therapeutics.
