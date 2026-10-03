@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Received first place at UCLA Undergraduate Research Week (Sciences, Engineering & Math) for work on bioelectronics for wearable and implantable stimulation therapeutics.
+Received [first place]({{ '/assets/img/news/library-prize.png' | relative_url }}) at UCLA Undergraduate Research Week (Sciences, Engineering & Math) for work on bioelectronics for wearable and implantable stimulation therapeutics.
